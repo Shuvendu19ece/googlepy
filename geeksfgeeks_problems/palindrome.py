@@ -1,6 +1,7 @@
 string_op ="rarrar"
 half_String = int(len(string_op)/2)
 
+
 if len(string_op) %2== 0:
     first_string_op =  string_op[:half_String]
     second_string_op = string_op[half_String:]
